@@ -1,3 +1,4 @@
+# Hotel Menu Card
 total=0
 while True:
     print("1.Ice-Cream")
